@@ -11,7 +11,9 @@ interested in estimating the creditworthiness of borrowers, investors want to me
 revenue their potential investments can bring, and managers are willing to have the most
 precise information on the financial position and performance of their companies.
 Despite apparent difference in motivation, all the above-mentioned users have common
-objectives in the financial statement analysis. They are following:
+objectives in the financial statement analysis.
+![Branching](save-money1.jpg)
+They are following:
 1. Reviewing the company’s performance over past periods. Building the trend lines,
 calculating ratios and indicators with the use of the company’s past financial report is a key to
 making conclusions on its possible future performance. For creditors and investors reviewing
